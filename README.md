@@ -1,6 +1,6 @@
 <h1 align="center">ꪶ𝐀𝐑𝐂𝐓𝐈𝐗 𝐁𝐎𝐓ꫂ<br></h1>
 <p align="center">
-  <img src="https://telegra.ph/file/f6afbfb1b73ea45fd6e37.jpg" width="170" height="170" />
+  <img src="https://user-images.githubusercontent.com/102433984/161561361-4f1e92af-d7bd-495f-828f-ca212d624f37.gif" width="170" height="170" />
 </p>
 
 <p align="center">
